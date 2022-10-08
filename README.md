@@ -1,4 +1,4 @@
-# PY-PY-Personally-Optimized-Organizational-Program
+# PY-Personally-Optimized-Organizational-Program
  Digital assistant made to reduce time needed for simple tasks.
 
 P.O.O.P.- Personally Optimized Organizational Program
