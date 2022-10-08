@@ -6,4 +6,4 @@ P.O.O.P.- Personally Optimized Organizational Program
 This simple digital assistant contains:
 1. Use online functions
 2. Use offline functions
-3.User Interface with Voice directed commands to compute requests
+3. 3.User Interface with Voice directed commands to compute requests
