@@ -7,6 +7,7 @@ This simple digital assistant contains:
 1. Use online functions
 2. Use offline functions
 3. User Interface with Voice directed commands to compute requests
+
 ======
 This software is used with voice commands which application listens to and notices certain keywords such as:
 1. Note -Listens to user input  Opens Calendar window and prompts user to select date for making a note
